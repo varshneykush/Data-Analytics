@@ -6,5 +6,5 @@ We have load/read the data from the CSV, JSON Files
 ##### Performed the Sentiment Analysis
 ##### Performed the Wordcloud Analysis
 ##### Export the data to the JSON and CSV Files
-##### Analysed the most liked Category
-##### Analysed the Trends of youtube
+##### Analyzed the most liked Category
+##### Analyzed the Trends of YouTube
